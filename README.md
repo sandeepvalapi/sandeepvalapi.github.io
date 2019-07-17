@@ -22,24 +22,24 @@
         <div class="row">
           <div class="dropdown">
             <ul id="nav" class="nav">
-              <li class="menu-item"><a class="smothscroll" href="#about" title="About"><i class="fa fa-user"></i></a></li>
+              <li class="menu-item"><a class="smothscroll" href="#about" title="About123"><i class="fa fa-user"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#resume" title="Resume"><i class="fa fa-file-text-o"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#work" title="Works"><i class="fa fa-briefcase"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#contact" title="Contact"><i class="fa fa-envelope"></i></a></li>
             </ul>
-            <!--/ uL#nav -->
+            
           </div>
-          <!-- /.dropdown -->
+         
 
           <div class="clear"></div>
         </div>
-        <!--/.row -->
+        
       </div>
-      <!--/.container -->
+      
 
       <div class="clear"></div>
     </div>
-    <!--/ #topbar-inner -->
+    
   </div>
   <!--/ #section-topbar -->
 
