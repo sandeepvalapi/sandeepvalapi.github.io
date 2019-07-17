@@ -43,7 +43,7 @@
   </div>
   <!--/ #section-topbar -->
 
-  <div id="headerwrap">
+  
     <div class="container">
       <div class="row centered">
         <div class="col-lg-12">
@@ -55,7 +55,7 @@
       <!--/.row -->
     </div>
     <!--/.container -->
-  </div>
+
   <!--/.#headerwrap -->
 
 
