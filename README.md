@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Kelvin - Bootstrap Resume Template</title>
+  <title>Sandeep - Hybris Consultant</title>
   <meta content="" name="keywords">
   <meta content="" name="description">
 
