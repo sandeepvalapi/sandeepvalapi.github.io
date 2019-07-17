@@ -1,15 +1,6 @@
 
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Sandeep - Hybris Consultant</title>
-  <meta content="" name="keywords">
-  <meta content="" name="description">
-
-  <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic|Raleway:400,300,700" rel="stylesheet">
 
