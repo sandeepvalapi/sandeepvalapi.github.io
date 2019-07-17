@@ -1,9 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Kelvin - Bootstrap Resume Template</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
 
@@ -22,13 +21,6 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-    Template Name: Kelvin
-    Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-    Author: TemplateMag.com
-    License: https://templatemag.com/license/
-  ======================================================= -->
 </head>
 
 <body data-spy="scroll" data-offset="64" data-target="#section-topbar">
