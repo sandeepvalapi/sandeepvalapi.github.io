@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic|Raleway:400,300,700" rel="stylesheet">
+
 
   <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -22,7 +22,7 @@
         <div class="row">
           <div class="dropdown">
             <ul id="nav" class="nav">
-              <li class="menu-item"><a class="smothscroll" href="#about" title="About123"><i class="fa fa-user"></i></a></li>
+              <li class="menu-item"><a class="smothscroll" href="#about" title="About"><i class="fa fa-user"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#resume" title="Resume"><i class="fa fa-file-text-o"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#work" title="Works"><i class="fa fa-briefcase"></i></a></li>
               <li class="menu-item"><a class="smothscroll" href="#contact" title="Contact"><i class="fa fa-envelope"></i></a></li>
@@ -43,11 +43,11 @@
   </div>
   <!--/ #section-topbar -->
 
-  
+  <div id="headerwrap">
     <div class="container">
       <div class="row centered">
         <div class="col-lg-12">
-          <h1>Sandeep</h1>
+          <h1>William T. Kelvin</h1>
           <h3>Web Designer | contact@example.com</h3>
         </div>
         <!--/.col-lg-12 -->
@@ -55,7 +55,7 @@
       <!--/.row -->
     </div>
     <!--/.container -->
-
+  </div>
   <!--/.#headerwrap -->
 
 
